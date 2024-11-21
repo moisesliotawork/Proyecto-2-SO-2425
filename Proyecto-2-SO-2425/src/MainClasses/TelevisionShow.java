@@ -7,6 +7,7 @@ package MainClasses;
 import EDD.List;
 import EDD.Node;
 import EDD.Queue;
+import Functions.LoadFunction;
 //import Functions.LoadFunction;
 
 /**
@@ -44,7 +45,7 @@ public class TelevisionShow {
         int priorityLevel = character.getPriorityLevel();
 
         String characterId = character.getNameCharacter() + "-"
-                + //LoadFunction.priority[priorityLevel - 1] + "-"
+                + LoadFunction.priority[priorityLevel - 1] + "-"
                 + characterNode.getIdNode();
 
         String nameCharacter = character.getNameCharacter();

@@ -1,0 +1,122 @@
+[StarTrek]
+Jean-Luc Picard,95,70,65,Aumento de Velocidad,/GUI/Assets/StarTrek/jeanlucpicard-red.png
+Jean-Luc Picard,85,65,60,Aumento de Velocidad,/GUI/Assets/StarTrek/jeanlucpicard-yellow.png
+Jean-Luc Picard,75,60,55,Aumento de Velocidad,/GUI/Assets/StarTrek/jeanlucpicard-green.png
+Spock,90,80,85,Aumento de Agilidad,/GUI/Assets/StarTrek/spock-red.png
+Spock,85,75,80,Aumento de Agilidad,/GUI/Assets/StarTrek/spock-yellow.png
+Spock,80,70,75,Aumento de Agilidad,/GUI/Assets/StarTrek/spock-green.png
+Worf,100,65,70,Parálisis,/GUI/Assets/StarTrek/worf-red.png
+Worf,90,60,65,Parálisis,/GUI/Assets/StarTrek/worf-yellow.png
+Worf,80,55,60,Parálisis,/GUI/Assets/StarTrek/worf-green.png
+Data,95,90,90,Congelamiento,/GUI/Assets/StarTrek/data-red.png
+Data,85,85,85,Congelamiento,/GUI/Assets/StarTrek/data-yellow.png
+Data,80,80,80,Congelamiento,/GUI/Assets/StarTrek/data-green.png
+Benjamin Sisko,90,70,65,Ataque Crítico,/GUI/Assets/StarTrek/benjaminsisko-red.png
+Benjamin Sisko,80,65,60,Ataque Crítico,/GUI/Assets/StarTrek/benjaminsisko-yellow.png
+Benjamin Sisko,75,60,55,Ataque Crítico,/GUI/Assets/StarTrek/benjaminsisko-green.png
+Kirk,100,85,80,Curación,/GUI/Assets/StarTrek/kirk-red.png
+Kirk,90,75,70,Curación,/GUI/Assets/StarTrek/kirk-yellow.png
+Kirk,80,65,60,Curación,/GUI/Assets/StarTrek/kirk-green.png
+Scotty,85,75,70,Aumento de Velocidad,/GUI/Assets/StarTrek/scotty-red.png
+Scotty,80,70,65,Aumento de Velocidad,/GUI/Assets/StarTrek/scotty-yellow.png
+Scotty,75,65,60,Aumento de Velocidad,/GUI/Assets/StarTrek/scotty-green.png
+Uhura,90,80,75,Aumento de Agilidad,/GUI/Assets/StarTrek/uhura-red.png
+Uhura,80,70,65,Aumento de Agilidad,/GUI/Assets/StarTrek/uhura-yellow.png
+Uhura,70,60,55,Aumento de Agilidad,/GUI/Assets/StarTrek/uhura-green.png
+Deanna Troi,95,80,75,Parálisis,/GUI/Assets/StarTrek/deannatroi-red.png
+Deanna Troi,80,70,65,Parálisis,/GUI/Assets/StarTrek/deannatroi-yellow.png
+Deanna Troi,75,60,55,Parálisis,/GUI/Assets/StarTrek/deannatroi-green.png
+Q,100,95,90,Congelamiento,/GUI/Assets/StarTrek/q-red.png
+Q,90,85,80,Congelamiento,/GUI/Assets/StarTrek/q-yellow.png
+Q,80,75,70,Congelamiento,/GUI/Assets/StarTrek/q-green.png
+Jadzia Dax,90,80,85,Ataque Crítico,/GUI/Assets/StarTrek/jadziadax-red.png
+Jadzia Dax,80,70,75,Ataque Crítico,/GUI/Assets/StarTrek/jadziadax-yellow.png
+Jadzia Dax,70,60,55,Ataque Crítico,/GUI/Assets/StarTrek/jadziadax-green.png
+Captain Janeway,100,85,80,Curación,/GUI/Assets/StarTrek/captainjaneway-red.png
+Captain Janeway,90,75,70,Curación,/GUI/Assets/StarTrek/captainjaneway-yellow.png
+Captain Janeway,80,65,60,Curación,/GUI/Assets/StarTrek/captainjaneway-green.png
+B'Elanna Torres,95,85,80,Aumento de Velocidad,/GUI/Assets/StarTrek/belannatorres-red.png
+B'Elanna Torres,80,75,70,Aumento de Velocidad,/GUI/Assets/StarTrek/belannatorres-yellow.png
+B'Elanna Torres,75,65,60,Aumento de Velocidad,/GUI/Assets/StarTrek/belannatorres-green.png
+T'Pol,95,80,75,Aumento de Agilidad,/GUI/Assets/StarTrek/tpol-red.png
+T'Pol,85,70,65,Aumento de Agilidad,/GUI/Assets/StarTrek/tpol-yellow.png
+T'Pol,75,60,55,Aumento de Agilidad,/GUI/Assets/StarTrek/tpol-green.png
+Geordi La Forge,100,80,75,Parálisis,/GUI/Assets/StarTrek/geordilaforge-red.png
+Geordi La Forge,90,70,65,Parálisis,/GUI/Assets/StarTrek/geordilaforge-yellow.png
+Geordi La Forge,80,60,55,Parálisis,/GUI/Assets/StarTrek/geordilaforge-green.png
+Hikaru Sulu,90,80,75,Congelamiento,/GUI/Assets/StarTrek/hikarusulu-red.png
+Hikaru Sulu,80,70,65,Congelamiento,/GUI/Assets/StarTrek/hikarusulu-yellow.png
+Hikaru Sulu,70,60,55,Congelamiento,/GUI/Assets/StarTrek/hikarusulu-green.png
+Montgomery Scott,85,65,60,Ataque Crítico,/GUI/Assets/StarTrek/montgomeryscott-red.png
+Montgomery Scott,75,55,50,Ataque Crítico,/GUI/Assets/StarTrek/montgomeryscott-yellow.png
+Montgomery Scott,65,45,40,Ataque Crítico,/GUI/Assets/StarTrek/montgomeryscott-green.png
+Doctor Phlox,88,68,63,Curación,/GUI/Assets/StarTrek/doctorphlox-red.png
+Doctor Phlox,78,58,53,Curación,/GUI/Assets/StarTrek/doctorphlox-yellow.png
+Doctor Phlox,68,48,43,Curación,/GUI/Assets/StarTrek/doctorphlox-green.png
+Hoshi Sato,85,75,70,Aumento de Velocidad,/GUI/Assets/StarTrek/hoshisato-red.png
+Hoshi Sato,75,65,60,Aumento de Velocidad,/GUI/Assets/StarTrek/hoshisato-yellow.png
+Hoshi Sato,65,55,50,Aumento de Velocidad,/GUI/Assets/StarTrek/hoshisato-green.png
+Shran,90,78,72,Aumento de Agilidad,/GUI/Assets/StarTrek/shran-red.png
+Shran,80,68,62,Aumento de Agilidad,/GUI/Assets/StarTrek/shran-yellow.png
+Shran,70,58,52,Aumento de Agilidad,/GUI/Assets/StarTrek/shran-green.png;
+[StarWars]
+Luke Skywalker,100,85,90,Parálisis,/GUI/Assets/StarWars/lukeskywalker-red.png;
+Luke Skywalker,90,80,85,Parálisis,/GUI/Assets/StarWars/lukeskywalker-yellow.png;
+Luke Skywalker,80,75,80,Parálisis,/GUI/Assets/StarWars/lukeskywalker-green.png;
+Darth Vader,120,70,65,Ataque Crítico,/GUI/Assets/StarWars/darthvader-red.png
+Darth Vader,110,65,60,Ataque Crítico,/GUI/Assets/StarWars/darthvader-yellow.png
+Darth Vader,100,60,55,Ataque Crítico,/GUI/Assets/StarWars/darthvader-green.png
+Leia Organa,90,75,80,Curación,/GUI/Assets/StarWars/leiaorgana-red.png
+Leia Organa,85,70,75,Curación,/GUI/Assets/StarWars/leiaorgana-yellow.png
+Leia Organa,80,65,70,Curación,/GUI/Assets/StarWars/leiaorgana-green.png
+Yoda,85,95,100,Aumento de Velocidad,/GUI/Assets/StarWars/yoda-red.png
+Yoda,80,90,95,Aumento de Velocidad,/GUI/Assets/StarWars/yoda-yellow.png
+Yoda,75,85,90,Aumento de Velocidad,/GUI/Assets/StarWars/yoda-green.png
+Han Solo,85,80,85,Aumento de Agilidad,/GUI/Assets/StarWars/hansolo-red.png
+Han Solo,80,75,80,Aumento de Agilidad,/GUI/Assets/StarWars/hansolo-yellow.png
+Han Solo,75,70,75,Aumento de Agilidad,/GUI/Assets/StarWars/hansolo-green.png
+Rey,90,80,75,Parálisis,/GUI/Assets/StarWars/rey-red.png
+Rey,80,70,65,Parálisis,/GUI/Assets/StarWars/rey-yellow.png
+Rey,75,60,55,Parálisis,/GUI/Assets/StarWars/rey-green.png
+Poe Dameron,85,75,85,Congelamiento,/GUI/Assets/StarWars/poedameron-red.png
+Poe Dameron,80,70,80,Congelamiento,/GUI/Assets/StarWars/poedameron-yellow.png
+Poe Dameron,75,65,75,Congelamiento,/GUI/Assets/StarWars/poedameron-green.png
+Kylo Ren,95,75,70,Ataque Crítico,/GUI/Assets/StarWars/kyloren-red.png
+Kylo Ren,85,65,60,Ataque Crítico,/GUI/Assets/StarWars/kyloren-yellow.png
+Kylo Ren,75,55,50,Ataque Crítico,/GUI/Assets/StarWars/kyloren-green.png
+Boba Fett,95,80,85,Curación,/GUI/Assets/StarWars/bobafett-red.png
+Boba Fett,85,70,75,Curación,/GUI/Assets/StarWars/bobafett-yellow.png
+Boba Fett,75,60,65,Curación,/GUI/Assets/StarWars/bobafett-green.png
+Ahsoka Tano,100,90,95,Aumento de Velocidad,/GUI/Assets/StarWars/ahsokatano-red.png
+Ahsoka Tano,90,80,85,Aumento de Velocidad,/GUI/Assets/StarWars/ahsokatano-yellow.png
+Ahsoka Tano,80,70,75,Aumento de Velocidad,/GUI/Assets/StarWars/ahsokatano-green.png
+Darth Maul,85,95,90,Aumento de Agilidad,/GUI/Assets/StarWars/darthmaul-red.png
+Darth Maul,75,85,80,Aumento de Agilidad,/GUI/Assets/StarWars/darthmaul-yellow.png
+Darth Maul,65,75,70,Aumento de Agilidad,/GUI/Assets/StarWars/darthmaul-green.png
+Chewbacca,100,75,70,Parálisis,/GUI/Assets/StarWars/chewbacca-red.png
+Chewbacca,90,65,60,Parálisis,/GUI/Assets/StarWars/chewbacca-yellow.png
+Chewbacca,80,55,50,Parálisis,/GUI/Assets/StarWars/chewbacca-green.png
+Qui-Gon Jinn,95,80,85,Congelamiento,/GUI/Assets/StarWars/quigonjinn-red.png
+Qui-Gon Jinn,85,70,75,Congelamiento,/GUI/Assets/StarWars/quigonjinn-yellow.png
+Qui-Gon Jinn,75,60,65,Congelamiento,/GUI/Assets/StarWars/quigonjinn-green.png
+Mace Windu,110,90,85,Ataque Crítico,/GUI/Assets/StarWars/macewindu-red.png
+Mace Windu,100,80,75,Ataque Crítico,/GUI/Assets/StarWars/macewindu-yellow.png
+Mace Windu,90,70,65,Ataque Crítico,/GUI/Assets/StarWars/macewindu-green.png
+Count Dooku,95,85,80,Curación,/GUI/Assets/StarWars/countdooku-red.png
+Count Dooku,85,75,70,Curación,/GUI/Assets/StarWars/countdooku-yellow.png
+Count Dooku,75,65,60,Curación,/GUI/Assets/StarWars/countdooku-green.png
+Plo Kloon,95,75,70,Aumento de Velocidad,/GUI/Assets/StarWars/plokloon-red.png
+Plo Kloon,85,65,60,Aumento de Velocidad,/GUI/Assets/StarWars/plokloon-yellow.png
+Plo Kloon,75,55,50,Aumento de Velocidad,/GUI/Assets/StarWars/plokloon-green.png
+Admiral Ackbar,90,70,65,Aumento de Agilidad,/GUI/Assets/StarWars/admiralackbar-red.png
+Admiral Ackbar,80,60,55,Aumento de Agilidad,/GUI/Assets/StarWars/admiralackbar-yellow.png
+Admiral Ackbar,70,50,45,Aumento de Agilidad,/GUI/Assets/StarWars/admiralackbar-green.png
+Kit Fisto,98,78,72,Parálisis,/GUI/Assets/StarWars/kitfisto-red.png
+Kit Fisto,88,68,62,Parálisis,/GUI/Assets/StarWars/kitfisto-yellow.png
+Kit Fisto,78,58,52,Parálisis,/GUI/Assets/StarWars/kitfisto-green.png
+Palpatine,120,90,85,Congelamiento,/GUI/Assets/StarWars/palpatine-red.png
+Palpatine,110,80,75,Congelamiento,/GUI/Assets/StarWars/palpatine-yellow.png
+Palpatine,100,70,65,Congelamiento,/GUI/Assets/StarWars/palpatine-green.png
+Din Djarin,95,80,75,Ataque Crítico,/GUI/Assets/StarWars/dindjarin-red.png
+Din Djarin,85,70,65,Ataque Crítico,/GUI/Assets/StarWars/dindjarin-yellow.png
+Din Djarin,75,60,55,Ataque Crítico,/GUI/Assets/StarWars/dindjarin-green.png;

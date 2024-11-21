@@ -11,7 +11,7 @@ import java.util.Random;
  * @author Moises Liota
  */
 public class List {
-     private Node pFirst;
+    private Node pFirst;
     private int size;
 
     public List() {

@@ -4,6 +4,8 @@
  */
 package EDD;
 
+import MainClasses.CharacterTv;
+
 /**
  *
  * @author Moises Liota
@@ -160,5 +162,27 @@ public class Queue {
         }
 
         return builder.toString();
+    }
+    
+    public Queue cloneQueue() {
+        Queue newQueue = new Queue();
+
+        Node node = this.getFront();
+        for (int i = 0; i < this.getLength(); i++) {
+            CharacterTv character =  (CharacterTv) node.getData();
+
+            CharacterTv newCharacter = new CharacterTv(
+                    character.getCharacterId(),
+                    character.getNameCharacter(),
+                    character.getHitPoints(),
+                    character.getSpeedVelocity(),
+                    character.getAgility(),
+                    character.getHability(),
+                    character.getUrlSource());
+
+            newQueue.enqueue(newCharacter);
+            node = node.getPnext();
+        }
+        return newQueue;
     }
 }

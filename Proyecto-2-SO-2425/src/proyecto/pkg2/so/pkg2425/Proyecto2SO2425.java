@@ -14,7 +14,8 @@ public class Proyecto2SO2425 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        App app = new App();
+        app.start();
     }
     
 }
