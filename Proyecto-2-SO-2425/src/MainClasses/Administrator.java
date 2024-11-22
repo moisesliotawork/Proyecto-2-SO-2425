@@ -34,7 +34,7 @@ public class Administrator extends Thread{
     }
 
     public void startSimulation() {
-//        ControlMainUI.getHome().setVisible(true);
+        ControlMainUI.getHome().setVisible(true);
 
         for (int i = 0; i < 20; i++) {
             getStarWars().createCharacter();

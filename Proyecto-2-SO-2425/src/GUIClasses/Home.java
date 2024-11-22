@@ -42,12 +42,6 @@ public class Home extends javax.swing.JFrame {
         iaStatusLabel.setText("");
         WinnerLabelID.setText("");
 
-        // Se setean las imagenes que la lucha en la IA.
-//        ImageIcon regularShowCardIA=  imageUtils.loadScaledImage(app.getIaArena().getRegularShowFighter().getUrlSource(), 150, 200);
-//        this.RegularShowCard.setIcon(regularShowCardIA);
-//        ImageIcon avatarCardIA=  imageUtils.loadScaledImage(app.getIaArena().getAvatarFighter().getUrlSource(), 150, 200);
-//        this.AvatarCard.setIcon(avatarCardIA);
-        // Se configura el slider 
         battleDuration.setOpaque(false);
         battleDuration.setMinimum(1);
         battleDuration.setMaximum(20);
@@ -211,10 +205,10 @@ public class Home extends javax.swing.JFrame {
     }//GEN-LAST:event_battleDurationMouseClicked
 
     private void battleDurationStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_battleDurationStateChanged
-        // TODO add your handling code here:
+        
         int newSpeed = getBattleDuration().getValue();
         app.setBattleDuration(newSpeed);
-//        app.getIaArena().setCombatSpeed(newSpeed);
+
     }//GEN-LAST:event_battleDurationStateChanged
 
     /**
